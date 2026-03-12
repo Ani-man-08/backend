@@ -1,0 +1,19 @@
+{
+  "name": "anibackend",
+  "version": "1.0.0",
+  "description": "A app for deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "aniruddha mankar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
